@@ -31,6 +31,7 @@ def initial_round
 end
 
 def hit?(card_total)
+  
 end
 
 def invalid_command
